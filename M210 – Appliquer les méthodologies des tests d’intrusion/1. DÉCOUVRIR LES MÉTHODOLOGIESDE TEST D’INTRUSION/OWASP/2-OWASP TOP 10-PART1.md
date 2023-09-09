@@ -1,4 +1,4 @@
-<img width="468" alt="mapping" src="https://github.com/AyoubHub212/AYOUB-SEC/assets/136107596/c4221d2f-2fe0-48b6-8292-ef1716abb830">
+<img width="468" alt="mapping" src="https://github.com/AyoubHub212/AYOUB-SEC/assets/136107596/ca6b5ea3-dc1f-4cfc-9be8-7ce39a77d2c9">
 
 
 ### A01. Broken Access Control
