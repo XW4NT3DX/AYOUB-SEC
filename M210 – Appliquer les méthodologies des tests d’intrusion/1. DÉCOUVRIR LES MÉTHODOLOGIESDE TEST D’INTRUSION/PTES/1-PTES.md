@@ -1,5 +1,6 @@
+![Uploading outsource-penetration-testing-services.jpg…]()
 
-![[outsource-penetration-testing-services.jpg]]
+
 ## **The Penetration Testing Execution Standard (PTES)** 
  consists of seven main sections, each encompassing critical aspects of a penetration test. This comprehensive framework guides the entire process, from the initial communication and rationale behind the penetration test, to the covert intelligence gathering and threat modeling phases. These early stages involve meticulous behind-the-scenes work to gain a profound understanding of the target organization.
 
