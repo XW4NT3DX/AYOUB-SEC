@@ -5,7 +5,7 @@ DNS (Domain Name System) provides a simple way for us to communicate with device
 
 
 >**_Domain Hierarchy_**
-![[Screenshot from 2023-07-23 11-53-28.png]]
+![Screenshot from 2023-07-23 11-53-28](https://github.com/AyoubHub212/AYOUB-SEC/assets/136107596/675b55c0-46cb-48f3-8c10-07fde2cfd21b)
 
 1 /     **TLD (Top-Level Domain)**
 
