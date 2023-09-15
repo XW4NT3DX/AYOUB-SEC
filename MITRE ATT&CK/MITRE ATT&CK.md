@@ -1,3 +1,4 @@
+![mitre](https://github.com/AyoubHub212/AYOUB-SEC/assets/136107596/773b8411-bf70-4393-8474-10edff962d05)
 
 ![[mitre.png]]
 ==MITRE ATT&CK®== stands for MITRE Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK). The MITRE ATT&CK framework is **a curated knowledge base and model for cyber adversary behavior, reflecting the various phases of an adversary's attack lifecycle and the platforms they are known to target**.
@@ -56,6 +57,7 @@ you can choose the one that u wanna see his tactics and techniques of it   .
 
 
 ![[mitre-attack-uses.png]]
+![mitre-attack-uses](https://github.com/AyoubHub212/AYOUB-SEC/assets/136107596/cbb6bc02-89e8-4e96-a7d3-2300b12e4d9b)
 
 
 
