@@ -1,4 +1,3 @@
-![[mitre-attack-vs-cyber-kill-chain.png]]
 ![mitre-attack-vs-cyber-kill-chain](https://github.com/AyoubHub212/AYOUB-SEC/assets/136107596/317bae38-b57d-4c22-bf70-0d4f063f8c0f)
 
 
