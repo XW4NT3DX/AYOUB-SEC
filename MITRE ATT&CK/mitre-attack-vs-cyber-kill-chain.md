@@ -1,4 +1,5 @@
 ![[mitre-attack-vs-cyber-kill-chain.png]]
+![mitre-attack-vs-cyber-kill-chain](https://github.com/AyoubHub212/AYOUB-SEC/assets/136107596/317bae38-b57d-4c22-bf70-0d4f063f8c0f)
 
 
 In general terms, both systems follow the same pattern – get in, don’t get caught, steal stuff. The primary difference between the two is that the ATT&CK matrix is more a list of techniques by tactics, and doesn’t propose a specific order of operations.
